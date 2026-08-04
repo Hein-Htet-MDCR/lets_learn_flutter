@@ -149,8 +149,4 @@ class StyledContainerTest extends StatelessWidget {
   }
 }
 
-// 1. Move @Preview() to a top-level function outside the class
-@Preview()
-Widget layoutSystemPreview() {
-  return const StyledContainerTest();
-}
+
