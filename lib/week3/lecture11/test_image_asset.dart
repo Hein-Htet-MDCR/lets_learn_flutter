@@ -5,6 +5,6 @@ class TestImageAsset extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Image.asset("assets/dog.jpg");
+    return Image.asset("dog.jpg");
   }
 }

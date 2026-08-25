@@ -14,6 +14,9 @@ class GestureDetectorTest extends StatelessWidget {
           onLongPress: () {
             print("Long Presed");
           },
+          onDoubleTap: () {
+            print("Double Tapped");
+          },
           child: Container(width: 150, height: 150, color: Colors.blue),
         ),
       ),

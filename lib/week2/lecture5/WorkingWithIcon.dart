@@ -9,8 +9,8 @@ class WorkingWithIcon extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        body: const Icon(
-          Icons.home,
+        body:  Icon(
+          Icons.school,
           color: Colors.blueAccent,
           size: 50,
           semanticLabel: 'Home',

@@ -8,6 +8,7 @@ class Home extends StatelessWidget {
     return Column(
       children: [
         Text("This is Home Screen!"),
+
         ElevatedButton(
           onPressed: () => {
             Navigator.push(
@@ -23,7 +24,7 @@ class Home extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (context) => ProfileScreen(username: "Hein Htet"),
+                builder: (context) => ProfileScreen(username: "John Doe"),
               ),
             ),
           },

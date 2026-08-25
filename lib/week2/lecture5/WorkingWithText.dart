@@ -8,10 +8,12 @@ class WorkingWithText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'Flutter Demo',
       home: Scaffold(
         body: const Text(
           'Yay IT World!',
           style: TextStyle(
+            fontFamily: 'Times New Roman',
             fontSize: 30,
             fontWeight: FontWeight.bold,
             color: Colors.blueAccent,

@@ -5,6 +5,7 @@ class ProfileScreen extends StatelessWidget {
 
   ProfileScreen({required this.username});
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -13,3 +14,5 @@ class ProfileScreen extends StatelessWidget {
     );
   }
 }
+
+

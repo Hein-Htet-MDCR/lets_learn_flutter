@@ -4,6 +4,6 @@ import 'package:flutter/widgets.dart';
 class WelcomeText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Text("Welcome!");
+    return Text("Hello");
   }
 }
