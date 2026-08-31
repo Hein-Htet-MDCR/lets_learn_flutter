@@ -23,10 +23,11 @@ By the end of this week, students will be able to:
 * **Capture** user input using `TextField`.
 * **Display** scrollable lists and grid layouts.
 
+---
 
-#### Week 3: State Management & Navigation
+### Week 3: State Management & Navigation
 
-##### Learning Outcomes
+#### Learning Outcomes
 
 By the end of this week, students will be able to:
 * **Differentiate** between StatelessWidget and StatefulWidget.
@@ -40,9 +41,11 @@ By the end of this week, students will be able to:
 * **Implement** Dark Mode support.
 * **Debug** UI layouts using Flutter Inspector.
 
-#### Week 4: Data Retrieval and Network Integration
+---
 
-##### Learning Outcomes
+### Week 4: Data Retrieval and Network Integration
+
+#### Learning Outcomes
 
 By the end of this week, students will be able to:
 - **Understand** asynchronous programming concepts.
@@ -55,9 +58,11 @@ By the end of this week, students will be able to:
 - **Display** dynamic data retrieved from the internet.
 - **Build** data-driven Flutter applications.
 
-#### Week 5: Data Persistence and App Deployment
+---
 
-##### Learning Outcomes
+### Week 5: Data Persistence and App Deployment
+
+#### Learning Outcomes
 
 By the end of this week, students will be able to:
 - **Understand** the basics of local data persistence.
@@ -70,9 +75,11 @@ By the end of this week, students will be able to:
 - **Build** production-ready Flutter applications.
 - **Apply** deployment best practices for mobile platforms.
 
-#### Final Course Outcomes
+---
 
-##### Upon successful completion of this course, students will be able to:
+### Final Course Outcomes
+
+#### Upon successful completion of this course, students will be able to:
 
 - **Develop** Flutter applications using Dart programming fundamentals.
 - **Build** responsive and reusable user interfaces with widgets.
